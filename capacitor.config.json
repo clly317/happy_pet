@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "happy_pet",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
