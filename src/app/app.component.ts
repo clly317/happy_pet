@@ -12,6 +12,10 @@ export class AppComponent {
     { title: 'Archived', url: '/folder/Archived', icon: 'archive' },
     { title: 'Trash', url: '/folder/Trash', icon: 'trash' },
     { title: 'Spam', url: '/folder/Spam', icon: 'warning' },
+    { title: 'Alerta', url: '/alert', icon: 'alert-circle' },
+    { title: 'Bagde', url: '/badge', icon: 'list' },
+    { title: 'Card', url: '/card', icon: 'newpaper' },
+    { title: 'Checkbox', url: '/checkbox', icon: 'checkbox'},
   ];
   public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
   constructor() {}
